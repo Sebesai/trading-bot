@@ -1,5 +1,5 @@
 flask
-coinbase-commerce
+coinbase==2.1.0
 requests
 python-dotenv
 gunicorn
